@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="red_food">#FFFF0000</color>
+    <color name="ligth_red_food">#1AFF0000</color>
+    <color name="grey_food">#9D9D9D</color>
+    <color name="ligth_grey_food">#F2F2F2</color>
 </resources>
