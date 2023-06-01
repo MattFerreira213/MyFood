@@ -28,16 +28,12 @@
 
     <com.google.android.material.tabs.TabLayout
         android:id="@+id/add_tab"
-        android:background="#FF00FF"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     
     <androidx.viewpager2.widget.ViewPager2
         android:id="@+id/add_viewpager"
-        android:background="#0000FF"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
-
-
 
 </LinearLayout>
